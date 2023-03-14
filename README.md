@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=OblivionNoirV2&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OblivionNoirV2"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OblivionNoirV2&layout=compact"/>
