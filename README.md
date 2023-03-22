@@ -8,5 +8,4 @@
 <img img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />https://twitter.com/Enigma_Soul01
           
           
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OblivionNoirV2&layout=compact&theme=synthwave"/>
-<img src="https://github-readme-stats.vercel.app/api?username=OblivionNoirV2&show_icons=true&theme=synthwave"/>
+
